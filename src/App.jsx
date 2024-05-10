@@ -63,10 +63,10 @@ const variation = {
     background-color: var(--Bright-blue);
     color: var(--Very-pale-blue);
     border-radius: 7px;
-    box-shadow: 0 5px 10px 1px var(--Pale-blue);
+    box-shadow: 0 10px 10px 1px hsla(224, 23%, 55%, 0.4);
 
     &:hover {
-      opacity: 0.5;
+      opacity: 0.7;
     }
   `,
   secondary: css`
