@@ -10,7 +10,7 @@ const StyledApp = styled.div`
 const SvgBox = styled.div`
   background-image: url(${({ $background }) => $background});
   width: 100%;
-  height: 15rem;
+  height: 18rem;
   background-repeat: no-repeat;
   background-size: cover;
 `;
